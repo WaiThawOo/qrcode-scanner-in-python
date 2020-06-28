@@ -1,6 +1,6 @@
 # QR code scanner in python 
 
-# Requirements
+## Requirements
 * pip install qrcode
 * pip install pillow
 * pip install pyzbar
