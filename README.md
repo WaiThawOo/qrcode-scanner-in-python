@@ -1,5 +1,4 @@
-# qrcode-scanner-in-python
-QR code scanner in python 
+# QR code scanner in python 
 
 # Requirements
 * pip install qrcode
